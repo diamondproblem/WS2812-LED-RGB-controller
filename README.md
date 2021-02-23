@@ -15,7 +15,7 @@ In this solution, led stripe can work in two modes - sequential and user defined
 
 In the sequential mode the following diodes are lightened in one color - pink or blue-violet and when the stripe is fully covered with a one color, from the bottom to the top diodes one by one are changing their color to the second. The procedure are repeated in the loop, until user will change the mode.
 
-![](images/led_seq.jpg)
+![](images/led_sequence.jpg)
 
 ### LED_RGB_SPART.vhd
 
